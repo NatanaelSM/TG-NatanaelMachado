@@ -1,7 +1,7 @@
 <h1 align="center">Portifólio - Natanael Silva Machado</h1>
 
 <p align="center">
-    <img src="./Arquivos/foto-profissional.jpeg" alt="Descrição da Imagem" width="300"/>
+    <img src="./Arquivos/foto-profissional.jpeg" alt="Descrição da Imagem" width="250"/>
 </p>
 
 ## Introdução
