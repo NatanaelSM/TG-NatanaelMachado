@@ -5,9 +5,7 @@
 </p>
 
 ## Introdução
-Olá, me chamo Natanael, tenho 22 anos e estou cursando o 5º semestre de Análise e Desenvolvimento de Sistemas.
-Em 2020 comecei minha carreira profissional como auxiliar de loja em um supermercado onde fiquei até 2022, essa experiência agregou bastante a minha carreira, pois me ensinou a ser mais responsável, além de gostar de receber feedbacks para entender no que posso melhorar, assim como resolver problemas. Na busca por evoluir profissionalmente acabei por ingressar na graduação no final de 2022 onde encontrei novos desafios a serem superados, porém, ao entrar na mesma fiquei com tempo extremamente escasso para o estudo, além de ficar bastante cansado por conciliar a faculdade e o trabalho, então optei por sair do trabalho e somente estudar de modo a achar um emprego na área de TI.
-Atualmente estou procurando uma primeira oportunidade de emprego na área de tecnologia, estou gostando bastante da área e cada vez mais estou evoluindo profissional e intelectualmente, por meio de projetos pessoais e para empresas reais em equipe para simular uma situação de trabalho real, sendo esses realizados através da minha faculdade.
+Olá, me chamo Natanael, tenho 22 anos e estou cursando o 5º semestre de Análise e Desenvolvimento de Sistemas. Em 2020 comecei minha carreira profissional como auxiliar de loja em um supermercado onde fiquei até 2022, essa experiência agregou bastante a minha carreira, pois me ensinou a ser mais responsável, além de gostar de receber feedbacks para entender no que posso melhorar, assim como resolver problemas. Na busca por evoluir profissionalmente acabei por ingressar na graduação no final de 2022 onde encontrei novos desafios a serem superados, porém, ao entrar na mesma fiquei com tempo extremamente escasso para o estudo, além de ficar bastante cansado por conciliar a faculdade e o trabalho, então optei por sair do trabalho e somente estudar de modo a achar um emprego na área de TI. Atualmente estou procurando uma primeira oportunidade de emprego na área de tecnologia, estou gostando bastante da área e cada vez mais estou evoluindo profissional e intelectualmente, por meio de projetos pessoais e para empresas reais em equipe para simular uma situação de trabalho real, sendo esses realizados através da minha faculdade.
 
 
 ## Contatos
@@ -49,7 +47,7 @@ Atualmente estou procurando uma primeira oportunidade de emprego na área de tec
 **Data:** *Agosto/2022*</br></br>
 **Empresa:** *FATEC São José dos Campos - SP*</br></br>
 **Desafio:** Realizar a identificação de falhas nos equipamentos dos laboratórios de informática da FATEC-SJC, visando a abertura de solicitações internas para que as devidas correções sejam aplicadas de forma ágil e eficaz.</br></br>
-**Solução:** Para resolver o problema sugerido, criamos uma solução que facilita a identificação de problemas de quaisquer origens nas máquinas da intituição, através de um software. O objetivo é simplificar a identificação do equipamento e do problema, tanto para quem registra a solicitação quanto para quem realiza o reparo.</br></br>
+**Solução:** Para resolver o problema sugerido, criamos uma solução que facilita a identificação de problemas de quaisquer origens nas máquinas da instituição, mediante um software. O objetivo é simplificar a identificação do equipamento e do problema, tanto para quem registra a solicitação quanto para quem realiza o reparo.</br></br>
 **App:** [Vídeo](https://www.youtube.com/watch?v=NEKq1Ppx7To)</br></br>
 **GitHub:** [Suportfy](https://github.com/EquipeAlpha1/suportfyAPI?tab=readme-ov-file#software-em-funcionamento)</br></br>
 
@@ -64,7 +62,7 @@ Atualmente estou procurando uma primeira oportunidade de emprego na área de tec
 </div>
 <div>
     <img align="center" alt="Js" height="18" width="18" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> JavaScript
-    <p>Responsável por adicionar interatividade e dinamismo para a apliação.</p>
+    <p>Responsável por adicionar interatividade e dinamismo para a aplicação.</p>
 </div>
 <div>
     <img align="center" alt="HTML" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" > BootsTrap
@@ -72,7 +70,7 @@ Atualmente estou procurando uma primeira oportunidade de emprego na área de tec
 </div>
 <div>
     <img align="center" alt="HTML" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"> Python
-    <p>Linguagem de programação utilizada para construção da lógica e da funcionalidade da aplicações web.</p>
+    <p>Linguagem de programação utilizada para construção da lógica e da funcionalidade das aplicações web.</p>
 </div>
 <div>
     <img align="center" alt="HTML" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg"> JQuery
@@ -80,7 +78,7 @@ Atualmente estou procurando uma primeira oportunidade de emprego na área de tec
 </div>
 <div>
     <img align="center" alt="HTML" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg"> Flask
-    <p>Microframework que auxiliou no desenvolvimento do back-end.</p>
+    <p>Micro framework que auxiliou no desenvolvimento do back-end.</p>
 </div>
 <div>
     <img align="center" alt="HTML" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg"> SQLite
@@ -90,7 +88,7 @@ Atualmente estou procurando uma primeira oportunidade de emprego na área de tec
 
 
 <h2 align="center">Contribuições Pessoais</h1>
-Minhas contribuições se concentram na área de desenvolvimento front-end, onde utilizei extensivamente HTML e CSS para criar interfaces de usuário intuitivas e visualmente atraentes. Ao longo do projeto, aprimorei minhas habilidades em responsividade, garantindo uma experiência de usuário consistente em diferentes dispositivos. Além disso utilizei JavaScript para a manipulação do DOM. 
+Minhas contribuições se concentram na área de desenvolvimento front-end, onde utilizei extensivamente HTML e CSS para criar interfaces de usuário intuitivas e visualmente atraentes. Ao longo do projeto, aprimorei minhas habilidades em responsividade, garantindo uma experiência de usuário consistente em diferentes dispositivos. Além disso, utilizei JavaScript para a manipulação do DOM.
 
 <h2 align="center">Hard Skills</h1>
 
@@ -100,8 +98,8 @@ Minhas contribuições se concentram na área de desenvolvimento front-end, onde
 
 <h2 align="center">Soft Skills</h1>
 
-1. Trabalho em equipe - Por ser meu primeiro projeto tive bastante dificuldade no início, tanto técnicas quanto de planejamento geral, então precisei de bastante auxílio da equipe e também nos .
-2. Gerenciamento de tempo - .
-3. Resolução de problemas - .
+1. Trabalho em equipe - Por ser meu primeiro projeto, tive bastante dificuldade no início, tanto técnicas quanto de entendimento geral, então precisei de bastante comunicação com a equipe, tanto para auxiliar, pedir ajuda e dar opinião para os membros.
+2. Gerenciamento de tempo - Houve a necessidade de nos organizar para lidar com diversas tarefas e as atividades da faculdade, desde o momento inicial até o final do projeto, principalmente para cumprir os prazos definidos.
+3. Resolução de problemas - Durante todo o projeto, houve dificuldades técnicas e organizacionais, com isso desenvolvi sólidas habilidades de resolução de problemas.
 
 </details>
