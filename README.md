@@ -1,4 +1,4 @@
-<h1 align="center">Portifólio - Natanael Silva Machado</h1>
+<h1 align="center">Portfólio - Natanael Silva Machado</h1>
 
 <p align="center">
     <img src="./Arquivos/foto-profissional.jpeg" alt="Descrição da Imagem" width="250"/>
