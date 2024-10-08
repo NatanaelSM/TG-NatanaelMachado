@@ -117,27 +117,27 @@ Minhas contribuições se concentram na área de desenvolvimento front-end, onde
 <h2 align="center">Tecnologias Utilizadas</h1>
 <div>
     <img align="center" alt="HTML" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"> Java
-    <p>Utilizado para estruturar o DOM do projeto.</p>
+    <p>Utilizado tanto para o backend quanto para o frontend do projeto.</p>
 </div>
 <div>
     <img align="center" alt="CSS" height="18" width="18" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"> MySQL
-    <p>Utilizado para estilizar e formatar os conteúdos do projeto.</p>
+    <p>Utilizado persistir os dados do projeto.</p>
 </div>
 <div>
-    <img align="center" alt="Js" height="18" width="18" src=""> Astah
-    <p>Responsável por adicionar interatividade e dinamismo para a aplicação.</p>
+    <img align="center" alt="Js" height="18" width="18" src="./Arquivos/astah.png"> Astah
+    <p>Modelagem do backend.</p>
 </div>
 <div>
-    <img align="center" alt="HTML" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" > Figma
-    <p>Framework utilizado para agilizar o processo de estilização do projeto.</p>
+    <img align="center" alt="HTML" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg">Figma
+    <p>Prototipagem das telas da aplicação.</p>
 </div>
 <div>
     <img align="center" alt="HTML" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg"> Jira
-    <p>Linguagem de programação utilizada para construção da lógica e da funcionalidade das aplicações web.</p>
+    <p>Organização, gerenciamento e monitoramento das atividades da equipe.</p>
 </div>
 <div>
     <img align="center" alt="HTML" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg"> Intellij IDEA
-    <p>Simplificação da manipulação do DOM.</p>
+    <p>IDE para codificação.</p>
 </div>
 
 
