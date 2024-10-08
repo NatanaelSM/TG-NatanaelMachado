@@ -103,3 +103,53 @@ Minhas contribuições se concentram na área de desenvolvimento front-end, onde
 3. Resolução de problemas - Durante todo o projeto, houve dificuldades técnicas e organizacionais, com isso desenvolvi sólidas habilidades de resolução de problemas.
 
 </details>
+
+<details>
+<summary>2º Semestre</summary>
+</br>
+
+**Data:** *Janeiro/2023*</br></br>
+**Empresa:** *FATEC São José dos Campos - SP*</br></br>
+**Desafio:** Facilitar o trabalho dos professores no gerenciamento escolar, especialmente no que se refere ao registro de atividades, tarefas e notas.</br></br>
+**Solução:** Para resolver o problema, criamos uma aplicação desktop de acesso rápido e prático a informações sobre atividades pendentes e estatísticas de desempenho dos alunos e da turma na totalidade. A ferramenta foi projetada com foco em acessibilidade e simplicidade, visando otimizar o tempo do usuário e fornecer dados relevantes de forma clara e eficiente.</br></br>
+**GitHub:** [Agis](https://github.com/EquipeAlpha1/Agis)</br></br>
+
+<h2 align="center">Tecnologias Utilizadas</h1>
+<div>
+    <img align="center" alt="HTML" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"> Java
+    <p>Utilizado para estruturar o DOM do projeto.</p>
+</div>
+<div>
+    <img align="center" alt="CSS" height="18" width="18" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"> MySQL
+    <p>Utilizado para estilizar e formatar os conteúdos do projeto.</p>
+</div>
+<div>
+    <img align="center" alt="Js" height="18" width="18" src=""> Astah
+    <p>Responsável por adicionar interatividade e dinamismo para a aplicação.</p>
+</div>
+<div>
+    <img align="center" alt="HTML" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" > Figma
+    <p>Framework utilizado para agilizar o processo de estilização do projeto.</p>
+</div>
+<div>
+    <img align="center" alt="HTML" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg"> Jira
+    <p>Linguagem de programação utilizada para construção da lógica e da funcionalidade das aplicações web.</p>
+</div>
+<div>
+    <img align="center" alt="HTML" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg"> Intellij IDEA
+    <p>Simplificação da manipulação do DOM.</p>
+</div>
+
+
+<h2 align="center">Contribuições Pessoais</h1>
+
+
+<h2 align="center">Hard Skills</h1>
+
+
+
+<h2 align="center">Soft Skills</h1>
+
+
+
+</details>
