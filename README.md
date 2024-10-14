@@ -117,39 +117,48 @@ Minhas contribuições se concentram na área de desenvolvimento front-end, onde
 <h2 align="center">Tecnologias Utilizadas</h1>
 <div>
     <img align="center" alt="HTML" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"> Java
-    <p>Utilizado tanto para o backend quanto para o frontend do projeto.</p>
+    <p>Linguagem de programação utilizada tanto para o backend quanto para o frontend do projeto.</p>
 </div>
 <div>
     <img align="center" alt="CSS" height="18" width="18" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"> MySQL
-    <p>Utilizado persistir os dados do projeto.</p>
+    <p>Utilizado para persistir os dados do projeto.</p>
 </div>
 <div>
     <img align="center" alt="Js" height="18" width="18" src="./Arquivos/astah.png"> Astah
     <p>Modelagem do backend.</p>
 </div>
 <div>
-    <img align="center" alt="HTML" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg">Figma
+    <img align="center" alt="Figma" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg">Figma
     <p>Prototipagem das telas da aplicação.</p>
 </div>
 <div>
-    <img align="center" alt="HTML" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg"> Jira
+    <img align="center" alt="Jira" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg"> Jira
     <p>Organização, gerenciamento e monitoramento das atividades da equipe.</p>
 </div>
 <div>
-    <img align="center" alt="HTML" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg"> Intellij IDEA
+    <img align="center" alt="Intelij" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg"> Intellij IDEA
     <p>IDE para codificação.</p>
+</div>
+<div>
+    <img align="center" alt="Git" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"> Git
+    <p>Versionamento de código.</p>
 </div>
 
 
 <h2 align="center">Contribuições Pessoais</h1>
-
+Nesse projeto, fui encarregado de ser o Scrum Master, realizando rotinas da metodologia ágil Scrum, como reuniões de planejamento, revisões de sprint, retrospectivas e dailys, promovendo a comunicação eficiente entre os membros da equipe e garantindo o progresso contínuo das entregas. Além disso, contribui no desenvolvimento do front-end, para isso utilizei a biblioteca Swing para criar interfaces e estilos, desenvolvendo componentes que proporcionam uma experiência amigável ao usuário. Trabalhei na personalização de layouts, utilizando diferentes gerenciadores de layout para garantir a organização eficiente dos elementos na tela. Durante o desenvolvimento, foquei em boas práticas de design de interface e na criação de uma experiência visual coesa, que facilita a navegação e a utilização do sistema.
 
 <h2 align="center">Hard Skills</h1>
 
-
+1. **Java:** Sei fazer com ajuda.
+2. **Prototipagem com figma:** Sei fazer com autonomia.
+3. **Metodologia Ágil (Scrum):** Sei fazer com ajuda.
+4. **Versionamento de código com Git:** Sei fazer com ajuda.
 
 <h2 align="center">Soft Skills</h1>
 
-
+1. Comunicação - No papel de Scrum Master, mantive o alinhamento constante entre a equipe de desenvolvimento e os stakeholders, garantindo que todos estivessem cientes dos objetivos e mudanças de requisitos. Durante as reuniões de revisão de sprint, foi possível ajustar as prioridades conforme o feedback dos usuários, o que ajudou a melhorar continuamente a qualidade do produto final. 
+2. Gerenciamento de tempo - O gerenciamento eficaz do tempo foi crucial para manter as entregas dentro dos prazos acordados. Durante o projeto, monitoramos constantemente o progresso das tarefas e ajustamos as estimativas conforme necessário. 
+3. Resolução de problemas - Ao longo do projeto, surgiram desafios que exigiram ajustes rápidos no planejamento. Por problemas pessoais de membros da equipe, tivemos que realocar temporariamente a equipe para focar em outras tarefas prioritárias, garantindo que o projeto continuasse a avançar.
 
 </details>
